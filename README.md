@@ -2,7 +2,7 @@
 A wonky 28-key, column-staggered, unibody-split keyboard made with fantastic FOSS software: [ergogen](https://github.com/ergogen/ergogen) and [KiCad](https://www.kicad.org/).
 
 ## WARNING: WIP!
-Nothing in this repository has been tested (yet). There is no firmware available (yet). Getting anything manufactured is at your own risk!
+Nothing in this repository has been tested (yet). There is no firmware available (yet). Get anything manufactured at your own risk!
 
 ## Inspiration
 - the [aptmak](https://github.com/apsu/aptmak) keymap
