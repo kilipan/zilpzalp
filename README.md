@@ -10,5 +10,7 @@ Nothing in this repository has been tested (yet). There is no firmware available
 - the [aptmak](https://github.com/apsu/aptmak) keymap
 
 <div style="text-align: center;">
+
 ![zilpzalp](https://github.com/kilipan/zilpzalp/blob/main/img/zilpzalp.png?raw=true)
+
 </div>
