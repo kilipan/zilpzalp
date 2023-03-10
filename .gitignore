@@ -1,2 +1,5 @@
 *backup*
 *-bak
+*.gbr
+*.gbrjob
+*.drl
