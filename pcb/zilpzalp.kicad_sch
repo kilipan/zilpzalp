@@ -1043,7 +1043,7 @@
     (property "Value" "SW_Push" (at 82.55 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 82.55 45.72 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 82.55 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 82.55 45.72 0)
@@ -1052,7 +1052,7 @@
     (pin "1" (uuid b81cc706-6a8f-4a18-8598-a98999ed3acb))
     (pin "2" (uuid df2e3444-4ffd-4ec5-a36a-e5cb5a6f9e78))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW7") (unit 1)
         )
@@ -1069,7 +1069,7 @@
     (property "Value" "SW_Push" (at 240.03 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 240.03 45.72 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 240.03 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 240.03 45.72 0)
@@ -1078,7 +1078,7 @@
     (pin "1" (uuid beb3af6b-9bcd-4cd8-b35a-7629550d3c12))
     (pin "2" (uuid 2f9d01e3-172b-4fd5-ba62-3167fe403e8b))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW23") (unit 1)
         )
@@ -1095,7 +1095,7 @@
     (property "Value" "SW_Push" (at 265.43 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 265.43 20.32 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 265.43 20.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 265.43 20.32 0)
@@ -1104,7 +1104,7 @@
     (pin "1" (uuid 785f4efd-2f83-4f2a-9c8c-fcd9bc63efc4))
     (pin "2" (uuid ffe7b067-4a67-4ff1-9e06-6f23d911003a))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW28") (unit 1)
         )
@@ -1121,7 +1121,7 @@
     (property "Value" "SW_Push" (at 189.23 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 189.23 20.32 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 189.23 20.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 189.23 20.32 0)
@@ -1130,7 +1130,7 @@
     (pin "1" (uuid b6bbae84-6e10-4639-bc83-c73d6f49ace0))
     (pin "2" (uuid 5e48d3cd-a131-4385-8df2-1cace6fdee70))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW25") (unit 1)
         )
@@ -1147,7 +1147,7 @@
     (property "Value" "SW_Push" (at 214.63 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 214.63 45.72 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 214.63 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 214.63 45.72 0)
@@ -1156,7 +1156,7 @@
     (pin "1" (uuid a181127b-7eed-4a61-a9fe-cd345b3b3146))
     (pin "2" (uuid dddc3e9c-a9e5-4671-bdd3-d348f206cd10))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW22") (unit 1)
         )
@@ -1173,7 +1173,7 @@
     (property "Value" "BAV70_Small" (at 44.45 26.67 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering" (at 46.99 29.21 0)
+    (property "Footprint" "BeiBob:SOT-23_Handsoldering" (at 46.99 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" (at 44.45 29.21 0)
@@ -1183,7 +1183,7 @@
     (pin "2" (uuid 8f6dda1c-0497-4e26-a6ce-9cfe6e609cc9))
     (pin "3" (uuid 31f335e8-bca3-40c3-b4af-16178539c565))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "D01") (unit 1)
         )
@@ -1200,7 +1200,7 @@
     (property "Value" "BAV70_Small" (at 95.25 102.87 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering" (at 92.71 105.41 0)
+    (property "Footprint" "BeiBob:SOT-23_Handsoldering" (at 92.71 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" (at 95.25 105.41 0)
@@ -1210,7 +1210,7 @@
     (pin "2" (uuid c73529c5-4c86-4d63-96fc-834e9a7701a4))
     (pin "3" (uuid 277b3107-b35f-489d-8663-ccf33bc5eb56))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "D07") (unit 1)
         )
@@ -1227,7 +1227,7 @@
     (property "Value" "SW_Push" (at 189.23 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 189.23 45.72 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 189.23 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 189.23 45.72 0)
@@ -1236,7 +1236,7 @@
     (pin "1" (uuid 2ec6e495-a20a-4d39-9cbe-68781f45e586))
     (pin "2" (uuid dd2a3dba-5ccc-4277-a2d8-ad2443a43e11))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW21") (unit 1)
         )
@@ -1253,7 +1253,7 @@
     (property "Value" "xiao" (at 148.59 59.69 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Kleeb MCU:xiao-ble-tht" (at 139.7 38.1 0)
+    (property "Footprint" "Kleeb MCU:xiao-tht" (at 139.7 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 139.7 38.1 0)
@@ -1278,7 +1278,7 @@
     (pin "8" (uuid a13a7927-6792-44e8-a2ec-b376fee730d7))
     (pin "9" (uuid 39212d7a-db8f-4b07-9c74-6dd2e28e005d))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "U1") (unit 1)
         )
@@ -1295,7 +1295,7 @@
     (property "Value" "SW_Push" (at 82.55 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 82.55 71.12 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 82.55 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 82.55 71.12 0)
@@ -1304,7 +1304,7 @@
     (pin "1" (uuid 3f7e0e52-cc25-496d-acc6-035e618953cb))
     (pin "2" (uuid c13c76b5-034b-4f77-b5b4-22619faf9ac7))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW11") (unit 1)
         )
@@ -1321,7 +1321,7 @@
     (property "Value" "BAV70_Small" (at 95.25 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering" (at 97.79 54.61 0)
+    (property "Footprint" "BeiBob:SOT-23_Handsoldering" (at 97.79 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" (at 95.25 54.61 0)
@@ -1331,7 +1331,7 @@
     (pin "2" (uuid 98d2d303-9763-4b22-9351-eaa7e7f3b869))
     (pin "3" (uuid 148b649c-d93e-4c59-9eeb-057fb0c5c079))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "D04") (unit 1)
         )
@@ -1348,7 +1348,7 @@
     (property "Value" "BAV70_Small" (at 201.93 102.87 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering" (at 199.39 105.41 0)
+    (property "Footprint" "BeiBob:SOT-23_Handsoldering" (at 199.39 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" (at 201.93 105.41 0)
@@ -1358,7 +1358,7 @@
     (pin "2" (uuid 4de33d25-fa4f-4f38-9a96-07a113a2737b))
     (pin "3" (uuid 3d99b434-deec-4bdb-87a8-102cd38a40b7))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "D08") (unit 1)
         )
@@ -1375,7 +1375,7 @@
     (property "Value" "SW_Push" (at 240.03 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 240.03 71.12 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 240.03 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 240.03 71.12 0)
@@ -1384,7 +1384,7 @@
     (pin "1" (uuid 8a01b4c9-d7d1-4f51-b231-bc3fa35616be))
     (pin "2" (uuid 7f7e3315-acca-4f10-9143-cb2db7ff7770))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW19") (unit 1)
         )
@@ -1401,7 +1401,7 @@
     (property "Value" "SW_Push" (at 31.75 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 31.75 45.72 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 31.75 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 31.75 45.72 0)
@@ -1410,7 +1410,7 @@
     (pin "1" (uuid d3ca83d9-4722-42fd-a756-51d246d2e9c6))
     (pin "2" (uuid 2883a6fd-68e8-406d-95e1-6d6b557afdfe))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW5") (unit 1)
         )
@@ -1427,7 +1427,7 @@
     (property "Value" "SW_Push" (at 265.43 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 265.43 45.72 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 265.43 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 265.43 45.72 0)
@@ -1436,7 +1436,7 @@
     (pin "1" (uuid 3ba03f4a-4d8c-4de4-a9fa-94b055e750e7))
     (pin "2" (uuid 5675d186-3d18-4684-94e7-d6d7de5bdd9c))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW24") (unit 1)
         )
@@ -1453,7 +1453,7 @@
     (property "Value" "BAV70_Small" (at 252.73 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering" (at 255.27 54.61 0)
+    (property "Footprint" "BeiBob:SOT-23_Handsoldering" (at 255.27 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" (at 252.73 54.61 0)
@@ -1463,7 +1463,7 @@
     (pin "2" (uuid e64735f3-2cee-4ebf-9d0f-973168078501))
     (pin "3" (uuid 2f244f7f-f3e7-497c-b9a1-6fe9062e6b9c))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "D12") (unit 1)
         )
@@ -1480,7 +1480,7 @@
     (property "Value" "SW_Push" (at 265.43 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 265.43 71.12 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 265.43 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 265.43 71.12 0)
@@ -1489,7 +1489,7 @@
     (pin "1" (uuid c27b8083-a253-4c35-b929-836bfadc0fe4))
     (pin "2" (uuid bc9dd516-f80d-4ed6-8abe-11d0bc0a1fc3))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW20") (unit 1)
         )
@@ -1506,7 +1506,7 @@
     (property "Value" "BAV70_Small" (at 201.93 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering" (at 204.47 54.61 0)
+    (property "Footprint" "BeiBob:SOT-23_Handsoldering" (at 204.47 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" (at 201.93 54.61 0)
@@ -1516,7 +1516,7 @@
     (pin "2" (uuid d554f09e-239c-48e0-8b1b-9629d1b3ade4))
     (pin "3" (uuid b521583c-7218-4de1-838b-282045bbb5e1))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "D11") (unit 1)
         )
@@ -1533,7 +1533,7 @@
     (property "Value" "SW_Push" (at 31.75 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 31.75 71.12 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 31.75 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 31.75 71.12 0)
@@ -1542,7 +1542,7 @@
     (pin "1" (uuid 3f4c3a84-5231-455d-a64d-02d2ae0ca421))
     (pin "2" (uuid a8579820-5883-42a8-983a-d953d76216f8))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW9") (unit 1)
         )
@@ -1559,7 +1559,7 @@
     (property "Value" "SW_Push" (at 31.75 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 31.75 20.32 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 31.75 20.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 31.75 20.32 0)
@@ -1568,7 +1568,7 @@
     (pin "1" (uuid b1c6e84b-e3b4-4902-bcfc-ef70d4f48b7c))
     (pin "2" (uuid 98f59c2a-8da2-4b50-9508-8d44645afe18))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW1") (unit 1)
         )
@@ -1585,7 +1585,7 @@
     (property "Value" "SW_Push" (at 107.95 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 107.95 45.72 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 107.95 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 107.95 45.72 0)
@@ -1594,7 +1594,7 @@
     (pin "1" (uuid d763746e-f3ee-49c0-91da-618717a65cc0))
     (pin "2" (uuid c18fe06c-47de-4c72-a384-d06cb056a3e3))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW8") (unit 1)
         )
@@ -1611,7 +1611,7 @@
     (property "Value" "SW_Push" (at 57.15 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 57.15 45.72 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 57.15 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 57.15 45.72 0)
@@ -1620,7 +1620,7 @@
     (pin "1" (uuid 4c99b25d-b40c-4748-b383-6f7b35014531))
     (pin "2" (uuid 21930222-8383-4076-be99-48260c4b493d))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW6") (unit 1)
         )
@@ -1637,7 +1637,7 @@
     (property "Value" "SW_Push" (at 214.63 97.79 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 214.63 96.52 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 214.63 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 214.63 96.52 0)
@@ -1646,7 +1646,7 @@
     (pin "1" (uuid 0ef0fbc0-e97b-46e6-ade0-47ae7623cb08))
     (pin "2" (uuid 6e50de3c-c689-40e0-b8cc-53a2fd69de32))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW16") (unit 1)
         )
@@ -1663,7 +1663,7 @@
     (property "Value" "SW_Push" (at 107.95 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 107.95 20.32 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 107.95 20.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 107.95 20.32 0)
@@ -1672,7 +1672,7 @@
     (pin "1" (uuid 2030b93f-56bc-4045-aa24-948f1c6cf0d7))
     (pin "2" (uuid 58a1e439-a027-44e8-bebe-e12792a407ce))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW4") (unit 1)
         )
@@ -1689,7 +1689,7 @@
     (property "Value" "SW_Push" (at 57.15 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 57.15 20.32 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 57.15 20.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 57.15 20.32 0)
@@ -1698,7 +1698,7 @@
     (pin "1" (uuid 68b9c62e-4156-4028-9552-09458a143fd3))
     (pin "2" (uuid bec15cca-d5cd-4f74-a16d-bf2be9d73683))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW2") (unit 1)
         )
@@ -1715,7 +1715,7 @@
     (property "Value" "SW_Push" (at 82.55 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 82.55 20.32 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 82.55 20.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 82.55 20.32 0)
@@ -1724,7 +1724,7 @@
     (pin "1" (uuid 55f09fca-fab8-458a-bbdf-a50596fd861c))
     (pin "2" (uuid ee16dc10-6358-4e76-b9f5-3494b87416ba))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW3") (unit 1)
         )
@@ -1741,7 +1741,7 @@
     (property "Value" "BAV70_Small" (at 252.73 26.67 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering" (at 255.27 29.21 0)
+    (property "Footprint" "BeiBob:SOT-23_Handsoldering" (at 255.27 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" (at 252.73 29.21 0)
@@ -1751,7 +1751,7 @@
     (pin "2" (uuid 757cc0de-7014-46b2-9f89-7cabbc99430b))
     (pin "3" (uuid aa2eb359-2293-4b06-9d1b-5d68c9046199))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "D14") (unit 1)
         )
@@ -1768,7 +1768,7 @@
     (property "Value" "SW_Push" (at 214.63 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 214.63 20.32 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 214.63 20.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 214.63 20.32 0)
@@ -1777,7 +1777,7 @@
     (pin "1" (uuid bd53f559-07ba-41d1-9963-f0fe3c648d51))
     (pin "2" (uuid 89506bb3-05ef-46ea-9de6-b7d3257c5c2d))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW26") (unit 1)
         )
@@ -1794,7 +1794,7 @@
     (property "Value" "SW_Push" (at 189.23 97.79 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 189.23 96.52 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 189.23 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 189.23 96.52 0)
@@ -1803,7 +1803,7 @@
     (pin "1" (uuid 5b32b907-6ceb-41ce-8de7-d05b8983c15a))
     (pin "2" (uuid 7354de64-d0b0-4ebd-a043-c34681e1ca7d))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW15") (unit 1)
         )
@@ -1820,7 +1820,7 @@
     (property "Value" "SW_Push" (at 107.95 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 107.95 71.12 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 107.95 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 107.95 71.12 0)
@@ -1829,7 +1829,7 @@
     (pin "1" (uuid 9487fbf4-2533-4de5-b28a-ba703897c792))
     (pin "2" (uuid 5cc3b708-ca97-473b-b07f-e04f5f0c5b0f))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW12") (unit 1)
         )
@@ -1846,7 +1846,7 @@
     (property "Value" "BAV70_Small" (at 95.25 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering" (at 97.79 80.01 0)
+    (property "Footprint" "BeiBob:SOT-23_Handsoldering" (at 97.79 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" (at 95.25 80.01 0)
@@ -1856,7 +1856,7 @@
     (pin "2" (uuid f355914e-07b5-42b9-b813-e9723b494844))
     (pin "3" (uuid e27eee7f-45cf-42f6-8b57-15dd23078567))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "D06") (unit 1)
         )
@@ -1873,7 +1873,7 @@
     (property "Value" "SW_Push" (at 107.95 97.79 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 107.95 96.52 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 107.95 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 107.95 96.52 0)
@@ -1882,7 +1882,7 @@
     (pin "1" (uuid 85d51b03-63b8-4741-af3b-ff00fe35e830))
     (pin "2" (uuid 15a6e28a-5373-4963-8dfb-20dc277c45e1))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW14") (unit 1)
         )
@@ -1899,7 +1899,7 @@
     (property "Value" "SW_Push" (at 214.63 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 214.63 71.12 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 214.63 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 214.63 71.12 0)
@@ -1908,7 +1908,7 @@
     (pin "1" (uuid 263aea3e-b502-49e5-8363-90ac3f2f709e))
     (pin "2" (uuid 749fbc8f-45c2-4ad3-8be4-95ecb16a3204))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW18") (unit 1)
         )
@@ -1925,7 +1925,7 @@
     (property "Value" "BAV70_Small" (at 201.93 26.67 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering" (at 204.47 29.21 0)
+    (property "Footprint" "BeiBob:SOT-23_Handsoldering" (at 204.47 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" (at 201.93 29.21 0)
@@ -1935,7 +1935,7 @@
     (pin "2" (uuid db024ff9-79ae-4c44-b566-d9a8769b93b1))
     (pin "3" (uuid e4b5dcb0-f3d5-464c-8241-bd7d156c19d6))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "D13") (unit 1)
         )
@@ -1952,7 +1952,7 @@
     (property "Value" "BAV70_Small" (at 95.25 26.67 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering" (at 97.79 29.21 0)
+    (property "Footprint" "BeiBob:SOT-23_Handsoldering" (at 97.79 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" (at 95.25 29.21 0)
@@ -1962,7 +1962,7 @@
     (pin "2" (uuid cfe75fc2-e6dd-4353-a2e5-612a6ef729ff))
     (pin "3" (uuid 9d711771-b4bd-48e4-a1c5-a943ddad8d54))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "D02") (unit 1)
         )
@@ -1979,7 +1979,7 @@
     (property "Value" "BAV70_Small" (at 44.45 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering" (at 46.99 80.01 0)
+    (property "Footprint" "BeiBob:SOT-23_Handsoldering" (at 46.99 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" (at 44.45 80.01 0)
@@ -1989,7 +1989,7 @@
     (pin "2" (uuid a898edba-3435-4eb9-b86f-2247fbe085bd))
     (pin "3" (uuid 5695ede6-ce3b-4644-8857-0a24ea64c001))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "D05") (unit 1)
         )
@@ -2006,7 +2006,7 @@
     (property "Value" "SW_Push" (at 82.55 97.79 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 82.55 96.52 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 82.55 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 82.55 96.52 0)
@@ -2015,7 +2015,7 @@
     (pin "1" (uuid 27110188-ff7e-420c-b691-c2b97dc178d9))
     (pin "2" (uuid c68a8d90-cb61-41bb-96a4-fc2c04b95019))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW13") (unit 1)
         )
@@ -2032,7 +2032,7 @@
     (property "Value" "SW_Push" (at 240.03 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 240.03 20.32 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 240.03 20.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 240.03 20.32 0)
@@ -2041,7 +2041,7 @@
     (pin "1" (uuid 4e863c10-5704-451f-b3f1-117c9958d711))
     (pin "2" (uuid bb5c395a-19bf-46b6-bc21-bc67532bc307))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW27") (unit 1)
         )
@@ -2058,7 +2058,7 @@
     (property "Value" "SW_Push" (at 57.15 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 57.15 71.12 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 57.15 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 57.15 71.12 0)
@@ -2067,7 +2067,7 @@
     (pin "1" (uuid b70976c9-7670-4515-aa13-439c5c2cdc8f))
     (pin "2" (uuid e57c43f7-f46b-45ec-bcea-51c261d58647))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW10") (unit 1)
         )
@@ -2084,7 +2084,7 @@
     (property "Value" "BAV70_Small" (at 44.45 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering" (at 46.99 54.61 0)
+    (property "Footprint" "BeiBob:SOT-23_Handsoldering" (at 46.99 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" (at 44.45 54.61 0)
@@ -2094,7 +2094,7 @@
     (pin "2" (uuid f715758c-2d15-4378-9985-1fa63ef2e776))
     (pin "3" (uuid 0709af9a-9bfe-4b97-bbab-17a3967e088c))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "D03") (unit 1)
         )
@@ -2111,7 +2111,7 @@
     (property "Value" "BAV70_Small" (at 252.73 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering" (at 255.27 80.01 0)
+    (property "Footprint" "BeiBob:SOT-23_Handsoldering" (at 255.27 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" (at 252.73 80.01 0)
@@ -2121,7 +2121,7 @@
     (pin "2" (uuid dc5d9f24-b493-43d6-ab2a-fe245ab1515a))
     (pin "3" (uuid 22aa170a-501f-421d-86d3-63bcedfb30fa))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "D10") (unit 1)
         )
@@ -2138,7 +2138,7 @@
     (property "Value" "BAV70_Small" (at 201.93 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering" (at 204.47 80.01 0)
+    (property "Footprint" "BeiBob:SOT-23_Handsoldering" (at 204.47 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" (at 201.93 80.01 0)
@@ -2148,7 +2148,7 @@
     (pin "2" (uuid 4da3a446-484a-4288-bd5d-0db8b758e6e7))
     (pin "3" (uuid b9bce77d-a308-427a-a823-3a9502db020e))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "D09") (unit 1)
         )
@@ -2165,7 +2165,7 @@
     (property "Value" "SW_Push" (at 189.23 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BeiBob:SW_Kailh_socket_PG1350_optional" (at 189.23 71.12 0)
+    (property "Footprint" "BeiBob:SW_Kailh_choc_hs_plus_solder_no_silk" (at 189.23 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 189.23 71.12 0)
@@ -2174,7 +2174,7 @@
     (pin "1" (uuid 7276366d-0d35-49b0-9401-dc1561183d37))
     (pin "2" (uuid e45d4674-b234-4d7b-a7bf-f9d95f4063fe))
     (instances
-      (project "ilo_nanpa_wan"
+      (project "zilpzalp"
         (path "/5ecac6d8-0277-4350-80c1-88a8cf49a228"
           (reference "SW17") (unit 1)
         )

@@ -1,4 +1,4 @@
-22137318357229879
+22140675361624137
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -525,6 +525,13 @@ rotary encoder
 5
 5
 BeiBob
+SOT-23_Handsoldering
+SOT-23, Handsoldering
+SOT-23
+0
+3
+3
+BeiBob
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 1.00u PCB
@@ -649,6 +656,13 @@ Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB and/or
 kailh,choc
 0
 6
+2
+BeiBob
+SW_Kailh_choc_hs_plus_solder_no_silk
+Kailh "Choc" PG1350 keyswitch with optional socket mount
+kailh,choc
+0
+4
 2
 BeiBob
 SW_Kailh_socket_MX
