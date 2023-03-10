@@ -1,3 +1,5 @@
+![zilpzalp](https://github.com/kilipan/zilpzalp/blob/main/img/zilpzalp.png?raw=true)
+
 # zilpzalp
 A wonky 28-key, column-staggered, unibody-split keyboard made with fantastic FOSS software: [ergogen](https://github.com/ergogen/ergogen) and [KiCad](https://www.kicad.org/).
 
