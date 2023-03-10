@@ -1,5 +1,3 @@
-![zilpzalp](https://github.com/kilipan/zilpzalp/blob/main/img/zilpzalp.png?raw=true)
-
 # zilpzalp
 A wonky 28-key, column-staggered, unibody-split keyboard made with fantastic FOSS software: [ergogen](https://github.com/ergogen/ergogen) and [KiCad](https://www.kicad.org/).
 
@@ -10,3 +8,7 @@ Nothing in this repository has been tested (yet). There is no firmware available
 - all the fantastic keyboards, knowledge, and help by [GEIST](https://github.com/GEIGEIGEIST/), [Freya](https://linktr.ee/freya_irl), [Bob](https://github.com/GroooveBob), and the wonderful Clacktales keyboard community
 - the [hummingbird](https://github.com/PJE66/hummingbird) keyboard and the [rufous](https://github.com/jcmkk3/trochilidae#rufous) variation
 - the [aptmak](https://github.com/apsu/aptmak) keymap
+
+<div style="text-align: center;">
+![zilpzalp](https://github.com/kilipan/zilpzalp/blob/main/img/zilpzalp.png?raw=true)
+</div>
