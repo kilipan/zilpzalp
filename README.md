@@ -9,8 +9,8 @@ Nothing in this repository has been tested (yet). There is no firmware available
 - the [hummingbird](https://github.com/PJE66/hummingbird) keyboard and the [rufous](https://github.com/jcmkk3/trochilidae#rufous) variation
 - the [aptmak](https://github.com/apsu/aptmak) keymap
 
-<div style="text-align: center;">
+<p align="center">
 
 ![zilpzalp](https://github.com/kilipan/zilpzalp/blob/main/img/zilpzalp.png?raw=true)
 
-</div>
+</p>
