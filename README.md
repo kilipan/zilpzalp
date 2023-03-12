@@ -1,6 +1,10 @@
 # zilpzalp
 A wonky 28-key, column-staggered, unibody-split keyboard made with fantastic FOSS software: [ergogen](https://github.com/ergogen/ergogen) and [KiCad](https://www.kicad.org/).
 
+Two versions are available:
+- the version with support for optional hotswap sockets and slightly extended edgecuts to acommodate the extra space required by the socket (in the [pcb]() directory)
+- the solder-only version with tighter edge cuts (in the [solder_only_pcb]() directory)
+
 ## WARNING: WIP!
 Nothing in this repository has been tested (yet). There is no firmware available (yet). Get anything manufactured at your own risk!
 
