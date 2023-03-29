@@ -1,3 +1,5 @@
+![zilpzalp](https://github.com/kilipan/zilpzalp/blob/main/img/zilpzalp_photo.jpg?raw=true)
+
 # zilpzalp
 A wonky 28-key, column-staggered, unibody-split keyboard made with fantastic FOSS software: [ergogen](https://github.com/ergogen/ergogen) and [KiCad](https://www.kicad.org/).
 
@@ -5,8 +7,19 @@ Two versions are available:
 - the version with support for optional hotswap sockets and slightly extended edgecuts to acommodate the extra space required by the socket (in the [pcb]() directory)
 - the solder-only version with tighter edge cuts (in the [solder_only_pcb]() directory)
 
-## WARNING: WIP!
-Nothing in this repository has been tested (yet). There is no firmware available (yet). Get anything manufactured at your own risk!
+**Warning:** The solder-only version has not been tested yet!
+
+## BOM
+- 1 pcb
+- 1 Seeed XIAO RP2040 controller
+- 14 sot23 diodes
+- (optional: 28 choc hot swap sockets)
+- 28 kailh choc low profile switches
+- 28 fitting keycaps
+
+## Firmware
+As of now, the only tested-and-confirmed-working firmware is the [QMK firmware](https://github.com/kilipan/qmk-config-zilpzalp) for the Seeed XIAO RP2040 controller.  
+There are also untested ZMK and KMK firmwares which will be made available after testing.
 
 ## Inspiration
 - all the fantastic keyboards, knowledge, and help by [GEIST](https://github.com/GEIGEIGEIST/), [Freya](https://linktr.ee/freya_irl), [Bob](https://github.com/GroooveBob), and the wonderful Clacktales keyboard community
