@@ -3,9 +3,10 @@
 # zilpzalp
 A wonky 28-key, column-staggered, unibody-split keyboard made with fantastic FOSS software: [ergogen](https://github.com/ergogen/ergogen) and [KiCad](https://www.kicad.org/).
 
-Two versions are available:
-- the version with support for optional hotswap sockets and slightly extended edgecuts to acommodate the extra space required by the socket (in the [pcb]() directory)
-- the solder-only version with tighter edge cuts (in the [solder_only_pcb]() directory)
+Three versions are available:
+- the version with support for optional hotswap sockets and slightly extended edgecuts to acommodate the extra space required by the socket (in the [pcb](https://github.com/kilipan/zilpzalp/tree/main/pcb) directory)
+- the solder-only version with tighter edge cuts (in the [pcb_solder_only](https://github.com/kilipan/zilpzalp/tree/main/pcb_solder_only) directory)
+- the cfx version with different spacing, making the zilpzalp almost 1.5 cm smaller horizontally (in the [pcb_cfx_spacing](https://github.com/kilipan/zilpzalp/tree/main/pcb_cfx_spacing) directory)
 
 **Warning:** The solder-only version has not been tested yet!
 
@@ -15,7 +16,7 @@ Two versions are available:
 - 14 sot23 diodes
 - (optional: 28 choc hot swap sockets)
 - 28 kailh choc low profile switches
-- 28 fitting keycaps
+- 28 fitting keycaps (pay special attention here when building the cfx version!)
 
 ## Firmware
 As of now, the only tested-and-confirmed-working firmware is the [QMK firmware](https://github.com/kilipan/qmk-config-zilpzalp) for the Seeed XIAO RP2040 controller.  
