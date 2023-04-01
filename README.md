@@ -8,7 +8,7 @@ Three versions are available:
 - the solder-only version with tighter edge cuts (in the [pcb_solder_only](https://github.com/kilipan/zilpzalp/tree/main/pcb_solder_only) directory)
 - the cfx version with different spacing, making the zilpzalp almost 1.5 cm smaller horizontally (in the [pcb_cfx_spacing](https://github.com/kilipan/zilpzalp/tree/main/pcb_cfx_spacing) directory)
 
-**Warning:** The solder-only version has not been tested yet!
+**Warning:** The solder-only and cfx versions have not been tested yet!
 
 ## BOM
 - 1 pcb
