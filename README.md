@@ -13,7 +13,7 @@ Three versions are available:
 ## BOM
 - 1 pcb
 - 1 Seeed XIAO RP2040 controller
-- 14 sot23 diodes
+- 14 sot23 diodes (common cathode)
 - (optional: 28 choc hot swap sockets)
 - 28 kailh choc low profile switches
 - 28 fitting keycaps (pay special attention here when building the cfx version!)
