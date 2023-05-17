@@ -12,6 +12,8 @@ Four versions are available:
 
 **Warning:** The solder-only versions (both default and minimal-spacing) have not been tested yet!
 
+Some example keymaps for getting an idea of how zilpzalp may be used can be found in the [`example_keymaps` directory](https://github.com/kilipan/zilpzalp/tree/main/example_keymaps).
+
 ## BOM
 - 1 pcb
 - 1 Seeed XIAO RP2040 controller
