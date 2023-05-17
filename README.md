@@ -24,7 +24,7 @@ Some example keymaps for getting an idea of how zilpzalp may be used can be foun
 
 ## Firmware
 As of now the [QMK firmware](https://github.com/kilipan/qmk-config-zilpzalp) and [ZMK firmware](https://github.com/kilipan/zmk-config-zilpzalp) are only tested and confirmed-functional for the Seeed XIAO RP2040 controller.  
-There is also an untested ZMK firmware for the Seeed XIAO Ble and an untested KMK firmwares, which will both be made available after testing.
+There is also an untested ZMK firmware for the Seeed XIAO BLE and an untested KMK firmware, which will both be made available after testing.
 
 ## Inspiration
 - all the fantastic keyboards, knowledge, and help by [GEIST](https://github.com/GEIGEIGEIST/), [Freya](https://linktr.ee/freya_irl), [Bob](https://github.com/GroooveBob), and the wonderful Clacktales keyboard community
