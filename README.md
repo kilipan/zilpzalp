@@ -3,6 +3,8 @@
 # zilpzalp
 A wonky 28-key, column-staggered, unibody-split keyboard made with fantastic FOSS software: [ergogen](https://github.com/ergogen/ergogen) and [KiCad](https://www.kicad.org/).
 
+For buying ready-to-assemble kits, consider [keeb.supply](https://keeb.supply/products/zilpzalp)! They share part of the profits made by selling zilpzalp with me!
+
 Four versions are available:
 - the version with support for optional hotswap sockets and slightly extended edgecuts to acommodate the extra space required by the socket (in the [pcb](https://github.com/kilipan/zilpzalp/tree/main/pcb) directory)
 - the cfx version with different spacing, making the zilpzalp almost 1.5 cm smaller horizontally (in the [pcb_cfx_spacing](https://github.com/kilipan/zilpzalp/tree/main/pcb_cfx_spacing) directory)
