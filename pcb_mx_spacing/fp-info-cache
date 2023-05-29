@@ -1,4 +1,4 @@
-22457948673779363
+22459634069006552
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -489,6 +489,13 @@ MXOnly-2U-Hotswap-ReversedStabilizers
 0
 2
 2
+BeiBob
+MountingHole_3.5mm_no_silk
+Mounting Hole 3.5mm, no annular
+mounting hole 3.5mm no annular
+0
+0
+0
 BeiBob
 RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
