@@ -16,7 +16,7 @@ One version for MX, KS-27, and KS-33 switches is available:
 - this version has default MX-spacing and features a hybrid switch-footprint for hotswap-only MX and solder-only KS-27/33 (in the [pcb_mx_spacing](https://github.com/kilipan/zilpzalp/tree/main/pcb_mx_spacing) directory)
 
 
-**Warning:** The solder-only versions (both default and minimal-spacing) and the MX spacing version have not been tested yet!
+**Warning:** The solder-only default choc-spacing version has not been tested yet!
 
 Some example keymaps for getting an idea of how zilpzalp may be used can be found in the [`example_keymaps` directory](https://github.com/kilipan/zilpzalp/tree/main/example_keymaps).
 
