@@ -22,7 +22,7 @@ Some example keymaps for getting an idea of how zilpzalp may be used can be foun
 
 ## BOM
 - 1 pcb
-- 1 Seeed XIAO RP2040 controller
+- 1 Seeed XIAO compatible controller, like e.g. [Miao](https://github.com/kilipan/miao)
 - 14 sot23 diodes (common cathode)
 - optional (for hot swap versions only): 28 hot swap sockets  
   (choc or mx depending on pcb version)
@@ -31,6 +31,7 @@ Some example keymaps for getting an idea of how zilpzalp may be used can be foun
 
 ## Firmware
 I personally use and recommend [ZMK firmware](https://github.com/kilipan/zmk-config-zilpzalp) which is tested and confirmed-functional for the Seeed XIAO RP2040 and the Seeed XIAO BLE controllers.  
+Check out [FAK firmware](https://github.com/semickolon/fak) if you're planning to use the Miao!  
 [QMK firmware](https://github.com/kilipan/qmk-config-zilpzalp) for the Seeed XIAO RP2040 is also available.
 
 ## Inspiration
